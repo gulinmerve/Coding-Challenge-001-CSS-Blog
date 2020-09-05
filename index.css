@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(147, 32, 151);   
+    font-family: 'Capriola', sans-serif;
+}
+
+#container {
+    border: 8px solid rgb(235, 4, 235);
+    margin: 150px;
+    padding: 20px;
+    background-color: rgba(155, 152, 149, 0.911);
+}
+#picture{
+    margin:20px;     
+    float: left;
+    opacity: 0.8;    
+    border-radius: 100px;
+}
+
+#article {
+    text-align: justify;
+    font-size: bold;
+}
